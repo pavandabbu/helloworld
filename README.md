@@ -6,7 +6,7 @@ public class Test {
 
 		int a,b,c,average;
 		a=10;
-		b=15;
+		b=25;
 		c=5;
 		average=(a+b+c)/3;
 		System.out.println("Average:"+average);
